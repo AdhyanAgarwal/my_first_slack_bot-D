@@ -23,3 +23,5 @@ help command gives the user a list of available commands
  It runs 24/7
 
 demo link: https://hackclub.enterprise.slack.com/archives/C0C19Q7SP53
+
+AI has been used in the process of making this project as i do not now much about how to make it so i used it to learn how to build it.
