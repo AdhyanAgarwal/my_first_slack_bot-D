@@ -20,4 +20,4 @@ catfact command tells the user a catfact
 
 help command gives the user a list of available commands  
 
-It doesn't yet run 24/7 :(   
+ It runs 24/7
